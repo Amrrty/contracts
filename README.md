@@ -88,7 +88,7 @@ guideline for licensing. See LICENSE and NOTICE files.
 ## Deployment
 
 | Name               | Address                                                                                                                               |
-| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
+| :amr22base.eth----------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
 | ArtProxy               | [0xE9992487b2EE03b7a91241695A58E0ef3654643E](https://basescan.org/address/0xE9992487b2EE03b7a91241695A58E0ef3654643E#code) |
 | RewardsDistributor               | [0x227f65131A261548b057215bB1D5Ab2997964C7d](https://basescan.org/address/0x227f65131A261548b057215bB1D5Ab2997964C7d#code) |
 | FactoryRegistry               | [0x5C3F18F06CC09CA1910767A34a20F771039E37C0](https://basescan.org/address/0x5C3F18F06CC09CA1910767A34a20F771039E37C0#code) |
